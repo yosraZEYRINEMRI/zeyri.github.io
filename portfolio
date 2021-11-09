@@ -1,0 +1,3146 @@
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+
+    <title>Abderrazzak Mahraye Portfolio </title>
+
+    <!-- Loading Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Loading Template CSS -->
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/pe-icon-7-stroke.css">
+    <link href="css/style-magnific-popup.css" rel="stylesheet">
+
+    <!-- Awsome Fonts -->
+    <link rel="stylesheet" href="css/all.min.css">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+
+
+    <!-- Font Favicon -->
+    <link rel="shortcut icon" href="images/iss.ico">
+
+</head>
+
+<body>
+
+    <!--begin header -->
+    <header class="header">
+
+        <!--begin navbar-fixed-top -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <!--begin container -->
+            <div class="container">
+
+                <!--begin navbar -->
+                <nav class="navbar navbar-expand-lg">
+
+                    <!--begin logo -->
+                    <a class="navbar-brand" href="#">A.MAHRAYE Portfolio</a>
+                    <!--end logo -->
+
+                    <!--begin navbar-toggler -->
+                    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"><i class="fas fa-bars"></i></span>
+                    </button>
+                    <!--end navbar-toggler -->
+
+                    <!--begin navbar-collapse -->
+                    <div class="navbar-collapse collapse" id="navbarCollapse" style="">
+
+                        <!--begin navbar-nav -->
+                        <ul class="navbar-nav ml-auto">
+
+                            <li><a href="#home">Home</a></li>
+
+                            <li><a href="#about">About Me</a></li>
+
+                            <li><a href="#services">Studies</a></li>
+
+                            <li><a href="#testimonials">Experience</a></li>
+
+                            <li><a href="#gallery">My work</a></li>
+
+
+
+                            <!-- <li><a href="#faq">FAQ</a></li> -->
+
+                            <li class="discover-link"><a href="#contact" class="discover-btn">Get In Touch</a></li>
+
+                        </ul>
+                        <!--end navbar-nav -->
+
+                    </div>
+                    <!--end navbar-collapse -->
+
+                </nav>
+                <!--end navbar -->
+
+            </div>
+    		<!--end container -->
+
+        </nav>
+    	<!--end navbar-fixed-top -->
+
+    </header>
+    <!--end header -->
+
+    <!--begin home section -->
+    <section class="home-section" id="home">
+
+        <div class="home-section-overlay"></div>
+
+		<!--begin container -->
+		<div class="container">
+
+	        <!--begin row -->
+	        <div class="row">
+
+	            <!--begin col-md-6-->
+	            <div class="col-md-6">
+
+	          		<h1>Hi ! I'm<span class="red">  Abderrazzak Mahraye</span>. IT Engineer Student </h1>
+
+	          		<p class="hero-text">"Innovative Smart Systems "</p>
+
+
+
+	            </div>
+	            <!--end col-md-6-->
+
+	        </div>
+	        <!--end row -->
+
+		</div>
+		<!--end container -->
+
+    </section>
+    <!--end home section -->
+
+    <!--begin section-grey -->
+    <section class="section-white" id="about">
+
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row">
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <!--begin col-md-6-->
+                    <div class="left-image">
+
+                        <img src="images/abdel.JPG" class="image-shadow width-100" alt="Happy">
+
+                    </div>
+                    <!--end col-sm-6-->
+
+                </div>
+                <!--end col-sm-6-->
+
+                <!--begin col-md-6-->
+                <div class="col-md-6 margin-top-20">
+
+                    <h3>A little about me</h3>
+
+                    <p>I'm an IT student specialized in "Innovative Smart Systems" IoT ( Internet of Things) at INSA Toulouse.</p>
+
+                    <ul class="benefits">
+                        <li><i class="fas fa-check"></i> Software/Application Engineering </li>
+                        <li><i class="fas fa-check"></i> Internet of Things</li>
+                        <li><i class="fas fa-check"></i> Data Science</li>
+                    </ul>
+
+                    <!--begin row-->
+                    <div class="row">
+
+                        <!--begin col-md-6-->
+                        <div class="col-md-6">
+
+                            <ul class="freelancer-details">
+                                <li><span class="freelancer-main-details">Location</span><span class="freelancer-second-details">Toulouse, FR</span></li>
+                                <li><span class="freelancer-main-details">LinkedIn</span><a href="https://www.linkedin.com/in/abderrazzak-mahraye-587b8719b" target="_blank"><span class="freelancer-second-details">abderrazzak.mahraye</span></a></li>
+                                <!--<li><span class="freelancer-main-details">Freelance</span><span class="freelancer-second-details">Available</span></li> -->
+                            </ul>
+
+                        </div>
+                        <!--end col-sm-6-->
+
+                        <!--begin col-md-6-->
+                        <div class="col-md-6">
+
+                            <ul class="freelancer-details">
+                                <li><span class="freelancer-main-details">Phone</span><span class="freelancer-second-details">(033) 516255222</span></li>
+                                <li><span class="freelancer-main-details">Email</span><span class="freelancer-second-details myemail">mahraye@etud.insa-toulouse.fr</span></li>
+
+                            </ul>
+
+                        </div>
+                        <!--end col-sm-6-->
+
+                    </div>
+                    <!--end row-->
+
+                    <a href="images/CV_Abderrazzak_mahraye.pdf" class="btn-red small scrool">Download CV</a>
+
+                </div>
+                <!--end col-md-6-->
+
+            </div>
+            <!--end row-->
+
+        </div>
+        <!--end container-->
+
+    </section>
+    <!--end section-grey -->
+
+
+
+
+    <!--begin section-white -->
+    <section class="section-grey" id="services">
+
+        <!--begin services-wrapper -->
+        <div class="services-wrapper">
+
+            <!--begin container -->
+            <div class="container">
+
+                <!--begin row -->
+                <div class="row">
+
+                    <!--begin col-md-12-->
+                    <div class="col-md-12 text-center">
+
+                        <h2 class="section-title"> My school career</h2>
+
+                        <p class="section-subtitle">Let's introduce my IT engineering school career</p>
+
+                    </div>
+                    <!--end col-md-12 -->
+
+                </div>
+                <!--end row -->
+
+                <!--begin row -->
+                <div class="row">
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services">
+
+                            <!-- <i class="pe-7s-medal"></i> -->
+                            <img src="images/jules.png" alt="jules ferry" width="180px">
+                            <h4> <span class="red">(2016-2018)</span> CPGE TSI Jules Ferry Cannes</h4>
+
+                            <p>2 years intensive industrial technology science course in preparation for selective exams to engineering schools. </p>
+
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services">
+
+                            <!--   <i class="pe-7s-tools"></i> -->
+                            <img src="images/insa.png" alt="jules ferry" width="100px">
+                            <h4><span class="red">(2018-2021)</span>  INSA Toulouse</h4>
+
+                            <p>Toulouse graduate school of engineering, cursus IR (computer science and networks) currently in fith year Innovative Smart Systems (IoT) option.</p>
+
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+
+                    <!--begin col-md-4 -->
+                    <div class="col-md-4">
+
+                        <div class="main-services">
+
+                            <!-- <i class="pe-7s-umbrella"></i> -->
+                            <img src="images/univ.png" alt="jules ferry" width="100px">
+                            <h4> <span class="red">(2020-2021)</span>  Data Science certificate</h4>
+
+                            <p>Certification in data science (Artificial Intelligence, cloud and virtualization)</p>
+
+                        </div>
+
+                    </div>
+                    <!--end col-md-4 -->
+
+                </div>
+                <!--end row -->
+
+            </div>
+            <!--end container -->
+
+        </div>
+        <!--end services-wrapper -->
+
+    </section>
+    <!--end section-white -->
+
+
+    <!--begin testimonials section -->
+    <section class="section-white" id="testimonials">
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row align-items-center">
+
+                <!--begin col-md-5 -->
+                <div class="col-md-5 col-sm-12">
+
+                    <h2>My main experiences.</h2>
+
+                    <p>Let's introduce my main experiences. Here are, at your right, my projects and internships that I want to highlight in this part </p>
+                    <a href="#gallery" class="btn-Green small scrool">Discover My Work</a>
+
+
+                </div>
+                <!--end col-md-5 -->
+
+                <!--begin col-md-1 -->
+                <div class="col-md-1"></div>
+                <!--end col-md-1 -->
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <!--begin accordion -->
+                    <div class="accordion" id="accordionFAQ">
+
+                        <!--begin card -->
+                        <div class="card">
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                              4 months Software Development internship. Implementation of an addin on Atoll a radio planning and optimization software that enables a client to know the performance of their wireless networks
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                  <img src="images/forsk.png" alt="testimonials" class="testim-img">
+                                  <p class="testim-name">Jun to Sept 2020 / <span>Software Development </span></p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+                        <!--end card -->
+
+
+                        <!--begin card -->
+                        <div class="card">
+
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                Tutor and coordinator in the association Ô Talent at INSA. Weekly tutoring seances. Coordination of new tutors.
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingTwo">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                  <img src="images/otalent.png" alt="testimonials" class="testim-img">
+                                  <p class="testim-name">2019-2020 / <span>Volunteering</span></p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+                        <!--end card -->
+
+                        <!--begin card -->
+                        <div class="card">
+
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionFAQ">
+                                <div class="card-body">
+                                Project at INSA. From scratch application Developement in Java. It is an application that allows users, in the same local network, to chat toghether.
+                                </div>
+                            </div>
+
+                            <div class="card-header" id="headingThree">
+                                <h5 class="mb-0">
+                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                  <img src="images/insa.png" alt="testimonials" class="testim-img">
+                                  <p class="testim-name">2019-2020 / <span>Java Application Developement</span></p>
+                                </button>
+                                </h5>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    <!--end accordion -->
+
+                </div>
+                <!--end col-md-6-->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+    </section>
+    <!--end testimonials section -->
+
+    <!--begin gallery section -->
+    <section class="section-grey" id="gallery">
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+
+                <!--begin col-md-12 -->
+                <div class="col-md-12 text-center padding-bottom-30">
+
+                    <h2 class="section-title">A selection of my work</h2>
+
+                    <p class="section-subtitle">Discover bellow my projects and practical work at INSA.</p>
+
+                </div>
+                <!--end col-md-12 -->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row">
+              <div class="col-md-12 col-sm-6 col-xs-12 text-center padding-bottom-30">
+                <a href="#innProject" class="btn-red small scrool"> <img src="images/localization.png" alt="testimonials" class="testim-img ">Innovative Project</a>
+                <a href="#MaS" class="btn-red small scrool"> <img src="images/middle.png" alt="testimonials" class="testim-img">Middleware and Services</a>
+                <a href="#innoHuman" class="btn-red small scrool"> <img src="images/huma.png" alt="testimonials" class="testim-img">Innovation and Humanity</a>
+
+
+
+              </div>
+              <div class="col-md-12 col-sm-6 col-xs-12 text-center padding-bottom-30">
+                <a href="#DataEngineering" class="btn-red small scrool"> <img src="images/data.png" alt="testimonials" class="testim-img">Data Engineering</a>
+                  <a href="#SmartDevices" class="btn-red small scrool"> <img src="images/smartd.png" alt="testimonials" class="testim-img">Smart Devices</a>
+                    <a href="#ProtocolCommunication" class="btn-red small scrool"> <img src="images/comm.png" alt="testimonials" class="testim-img">Communication</a>
+
+
+
+              </div>
+
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+
+                <!--begin col-md-12 -->
+                <div class="col-md-12 text-center padding-top-10">
+
+                    <p class="follow-instagram">Click on which work you want to discover</p>
+
+                </div>
+                <!--end col-md-12 -->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+    </section>
+    <!--end gallery section -->
+
+    <!-- -------Innovation project Actia--------------- -->
+    <section id="innProject">
+      <div class="col-md-12 text-center padding-bottom-10">
+
+          <h2 class="section-title">Innovative Project</h2>
+
+          <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#localisationAndCommunication" aria-expanded="false" aria-controls="collapseOne">
+
+                <div class="hovereffect">
+                    <img class="img-responsive" width="350" height="200" src="images/hoverProject.png" alt="">
+                    <div class="overlay">
+                       <h2>Localization and Communication</h2>
+                       <a class="info"><h3>Discover</h3></a>
+
+                    </div>
+                </div>
+
+
+
+          </button>
+
+      </div>
+      <!-- -------Project Actia-------------- -->
+      <div class="container">
+          <!--begin row-->
+          <div class="row collapse" id="localisationAndCommunication">
+            <div>
+
+              <div class="col-md-12 text-center padding-top-10">
+                  <h3 class="section-title"> Innovative  Project</h3>
+                  <h4 class="section-title"> Localization and Communication for firefighters team </h4>
+
+              </div>
+
+                <div class="row">
+                  <h4>Context of project</h4>
+                </div>
+                <div>
+
+                  <p> One of the most important and most ambitious project of this last year
+                    Innovative Smart Systems is this Localization and Communication project. In fact, this project was
+                  in collaboration with a company, and we had to respond to an industrial IoT problem in a multidiciplinary project.
+                  The project was proposed by Acita, an international group that specializes
+                  in adding value to its customers by providing innovative electronics
+                  and diagnostics solutions in several areas such as health, aerospace and defence,
+                  automobile and automotive.</p>
+                  <p>
+                    I worked with 4 other students which came from very different backgrounds. For that purpose, we
+                    had to propose an innovative solution by analysing the problem and then implmented it after four
+                    months.
+                  </p>
+
+                  <p> The purpose of this project is to deliver an embedded system that allows a firefighters team to
+                  interact and locate theirselves in an operating area. </p>
+
+
+                  <div class="row">
+                    <h4>Technical Aspects</h4>
+                  </div>
+
+                  <p>
+                    The objective of the project “Localisation and Communication”
+                    is to provide a tool to make the coordination of a task
+                    force in a large outdoor space easier. Our project is more precisely
+                     targeting groups composed of one operation’s manager (a chief)
+                     and a team of operators. Equipped with an electronic dispositive
+                      (called a gateway - GW) and a digital tablet, the chief can determine
+                      the precise location of each of his operators on a map.
+                       In addition, it is possible for him to send messages and interact
+                        either with all of his team or just with one specific operator.
+                         As for the operators, they are all equipped with another electronic dispositive
+                         (called a node - ND) and a mobile phone with which they can both visualise the
+                         chief’s location and send him messages.
+                  </p>
+                  <p> The following figure describes the whole systems we built:</p>
+
+                  <div class="col-md-12 text-center padding-top-10">
+                          <figure class="figure">
+                              <img src="images/actia1.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                alt="happy" style="width: 500px">
+                              <figcaption class="figure-caption">Global Overview</figcaption>
+                          </figure>
+                  </div>
+                  <p> Consequently, the project is composed of 3 parts: </p>
+                  <ul class="benefits">
+                    <li><i class="fas fa-dot-circle"></i>Firstly, the <b>BLE communication</b> between the nodes/gateway and the tablet/smartphone:
+                       this part enables to send GPS data from nodes/gateway to
+                       the smartphone and tablet through the application.</li>
+                    <li><i class="fas fa-dot-circle"></i>Secondly, the <b>LoRa communication</b>
+                      between the nodes and the gateway: this part enables to send the GPS data from the nodes to the gateway and inversely </li>
+                    <li> <i class="fas fa-dot-circle"></i>Finally, the implementation of the <b>android Application</b>: this part enables the users
+                    to represent the GPS data received by BLE on a map. </li>
+                  </ul>
+
+                  <p> <b> Due to confidentialty asked by Actia I can not give more details.</b></p>
+
+
+
+
+
+
+            </div>
+              <hr/>
+          </div>
+
+      </div>
+
+
+
+
+
+        <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+       <div class="row">
+         <div class="col-md-12 text-center padding-top-10">
+           <i class="fas fa-tasks fa-3x"></i>
+           <h3> Developped skills and knowledge </h3>
+
+
+         </div>
+                <div class="container">
+                 <div class="col-md-4 mx-auto padding-top-10">
+                 <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsInnovProject" aria-expanded="false" aria-controls="collapseOne">
+
+
+                     <span>Show Manage an innovative project</span>
+
+                 </button>
+
+                 </div>
+
+
+
+
+
+
+               <div class="col-md-8 mx-auto text-center padding-top-10">
+                 <ul class="progress-list collapse" id="skillsInnovProject">
+
+                   <hr/>
+                   <h5>Innovative Project</h5>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Analyse a real-life problem</b></div>
+                       </div>
+                       <p>The project was proposed by an actual company. It enabled me to face a concret real project
+                       asked by a client. To respond to specifications I had to respond to them by analysing the
+                     problem and give a solution. </p>
+                   </li>
+
+                   <li>
+
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Suggest a technological solution to a problem</b></div>
+                       </div>
+                       <p> Once the specification analysed and the problem was precisely defined
+                         we suggest the company our solution. The solution is based on our backgrounds and the skills acquired at INSA. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Implement a prototype to solve the problem</b></div>
+                       </div>
+                       <p>We implemented the proposed solution to the company. When we faced technical issues we was able
+                       to adapt, solve it and go foward. The Proof Of Concept of our solution will be delivered to the company.</p>
+
+
+
+                   </li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Understand and master the optimisation of IoT communication protocols at MAC level</b></div>
+                       </div>
+                       <p> Through my presentation and my classmates presentation on WSN MAC-lever protocols, we discussed about each protocol
+                       and debated on their advantages/disavantages in severals case they are designed for. I learnt in depth how each MAC protocol
+                     work and their optimization for each use case. </p>
+
+
+
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Present and debate (in English) the technical choice made</b></div>
+                       </div>
+                       <p> Throughout the entire project, we had to regularly present our progress
+                          and the coices we made in our english class. This part was important since
+                         it was necessary for us to justify our choices to the company we were working for.</p>
+
+
+
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Produce a report (in English) for the developed project  </b></div>
+                       </div>
+                       <p>We wrote a report of ou Proof of Concept for the company to inform
+                         them about all the technologies/choices/implementation that were made.</p>
+
+
+
+                   </li>
+
+
+                    </ul>
+
+               </div>
+             </div>
+
+
+        </div>
+
+            <!--end progress-list -->
+
+
+            <!-- Conclusion ------------------------- -->
+            <div class="col-md-12 mx-auto text-center padding-top-10">
+              <div class="col-md-12 text-center padding-top-10">
+
+                <i class="fas fa-star fa-3x"></i>
+                <h3> Conclusion </h3>
+
+              </div>
+              <p> This ambitious project enabled me to understand how a concrete project
+                 can be managed in a a company. In fact, it enabled me to understand the benefits of a multidiciplinary team,
+                 and how to work in such a team. Furthermore, it allowed me to learn to analyse a specifications
+                 and produce solution depending on serveral constraints (energy consumption, choice of protocols, etc...).
+                 It was a enriching project that allowed me to collaborate with a company, and interact with persons with
+                 different backgrounds.
+                </p>
+            </div>
+             <hr/>
+
+
+    </section>
+
+
+
+
+    <!-- Middleware and services word -->
+
+    <section class="section-grey" id="MaS">
+
+
+      <div class="container">
+
+          <!--begin row-->
+          <div class="row">
+            <div class="col-md-12 text-center padding-bottom-10">
+
+                <h2 class="section-title">Middleware and Service</h2>
+
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#Cloud" aria-expanded="false" aria-controls="collapseOne">
+
+                      <div class="hovereffect">
+                          <img class="img-responsive" width="350" height="200" src="images/hoverCloud.jpg" alt="">
+                          <div class="overlay">
+                             <h2>Cloud and Autonomic Computing</h2>
+                             <a class="info"><h3>Discover</h3></a>
+
+                          </div>
+                      </div>
+
+
+
+                </button>
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#MiddlewareLab" aria-expanded="false" aria-controls="collapseOne">
+
+
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverMiddle.png" alt="">
+                      <div class="overlay">
+                         <h2>Middleware for IoT Lab</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+                </button>
+
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#SOAproject" aria-expanded="false" aria-controls="collapseOne">
+
+
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverSOA.jpg" alt="">
+                      <div class="overlay">
+                         <h2>SOA Project</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+
+                </button>
+
+            </div>
+          </div>
+          <!-- -------Project SOA -------------- -->
+          <div class="container">
+              <!--begin row-->
+
+              <div class="row collapse" id="SOAproject">
+                <div>
+
+                  <div class="col-md-12 text-center padding-top-10">
+                      <h4 class="section-title"> Service Oriented Architecture: Room management</h4>
+
+                  </div>
+                    <div class="row">
+                      <p> We realized in a group of 3 students a project of Room’s Management to apply Service Oriented Architecture’s and Middleware lessons. The goal was to realize a Web application to manage a room, like opening the door, switching on/off the light depending on the state of a samples of sensors. We had to implement diffrent scenarios based on the state of the sensor. As example of scenario: "close the windows when the temperature is under 18°C"</p>
+
+                    </div>
+                    <div class="row">
+                      <h5>Jira: How we organized our project</h5>
+                    </div>
+                    <div>
+
+                      <p>To do that, we worked in agile using the tool Jira. It is  a project management tool allowing us to work in agile. Consequently,
+                         we organized the project in 3 sprints composed of userstories correponding to the different scenarios. </p>
+                      <p> The next figures show these sprints: </p>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/sprint1.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 800px">
+                                  <figcaption class="figure-caption">The first sprint done.</figcaption>
+                              </figure>
+                      </div>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/sprint2.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 800px">
+                                  <figcaption class="figure-caption">The second sprint done.</figcaption>
+                              </figure>
+                      </div>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/sprint3.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 800px">
+                                  <figcaption class="figure-caption">The third sprint done.</figcaption>
+                              </figure>
+                      </div>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/sprint4.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 800px">
+                                  <figcaption class="figure-caption">The fourth sprint done.</figcaption>
+                              </figure>
+                      </div>
+                    </div>
+
+                  <div class="row">
+                      <h5>OM2M Platform</h5>
+                  </div>
+                  <div>
+                        <p>In order to monitor the sensors we set up an OM2M Platform which have all the ressources needed.
+                           This platform has the following tree archetecture of ressources: </p>
+
+                           <div class="col-md-12 text-center padding-top-10">
+                                   <figure class="figure">
+                                       <img src="images/om2m.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                         alt="happy" style="width: 450px">
+                                       <figcaption class="figure-caption">OM2M ressource tree.</figcaption>
+                                   </figure>
+                           </div>
+                           <p>We organized the elements by platforms AE (application entity). In each platform there are the sensors and actuators containers. Each sensor/actuator contains its data CIN.  </p>
+                            <p>This platforms were created by a java program by using POST requests, it was easier than using a rest client (i.e Postman). In fact, if the OM2M platform is destroyed, it is easier to rebuild it just by launching this program.
+                              It is really faster than resend all request in a REST client.</p>
+                  </div>
+
+
+
+                  <div class="row">
+                      <h5>Web Services</h5>
+
+                  </div>
+                    <p>In order to monitor this IoT platform we implemented web services. In fact, we created 3 types of services: </p>
+                  <ul class="benefits">
+                    <li><i class="fas fa-check"></i> Services to get a CIN's content of an actuator or a sensor </li>
+                      <div class="row">
+                      <p> These services are simple: we just return the wanted content thanks to a get request. For instance to get the value of the temperature sensor:  </p>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/serviceTemp.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 450px">
+
+                              </figure>
+                      </div>
+                      <p> When the sensor uses this service, he will get the sensor's value: </p>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/TempServiceResult.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 450px">
+
+                              </figure>
+                      </div>
+                    </div>
+                    <li><i class="fas fa-check"></i> Services to set a CIN content of an actuator or a sensor </li>
+                    <div class="row">
+                    <p> It is in these service where the analysis/monitoring of sensors and actuators are done in order
+                      to implement the diffrent scenarios</p>
+                      <p> For instance to simulate the scenario "As a client, I want that the windows opened when outside temperature is lower(between 18 and 27°) than the indoor
+                        temperature so that it allows energy economy", when the temperature is set up to be simulated, there is a monitoring that is done:  </p>
+                        <div class="col-md-12 text-center padding-top-10">
+                                <figure class="figure">
+                                    <img src="images/TempServiceSet.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                      alt="happy" style="width: 450px">
+
+                                </figure>
+                        </div>
+                        <p> As we can see the window is monitored depending on the temperature set.</p>
+
+                        <p>All others web services are detailled in the source code in the gitHub repository:  </p>
+                    </div>
+                    <div class="row">
+                      <span class="freelancer-main-details"> GitHub</span><a href="https://github.com/KilianDesportes/softwareengineering_soa_iot" target="_blank"><span class="freelancer-second-details">SOArepository</span></a>
+                    </div>
+                    <li> <i class="fas fa-check"></i>A general service that summarize the state of our actuators and sensors </li>
+                    <div class="row">
+                      <p> The purpose of this service is just to return the main informations avaiable from the OM2M platform.</p>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/RessourceService.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 550px">
+
+                              </figure>
+                      </div>
+                      <p> Then when the user uses this service he will get the following output:</p>
+                      <div class="col-md-12 text-center padding-top-10">
+                              <figure class="figure">
+                                  <img src="images/RessourceServiceResult.png" class="image-shadow figure-img img-fluid z-depth-1"
+                                    alt="happy" style="width: 550px">
+
+                              </figure>
+                      </div>
+                    </div>
+                  </ul>
+
+
+                  <div class="row">
+                      <h5>Unit Tests</h5>
+                  </div>
+                  <p> Once all our web services and the OM2M platform were
+                     completely created and ready, we made a JUnit test in order to check if all
+                   our sensor, actuator, and services worked well in different predicted test. Rather than test every service
+                 separetly one by one which cost a lot of time. Consequently, this JUnit test was ver usefull to fastly
+               detect bugs. The following figure shows the test that succeded once all the bugs fixed:  </p>
+
+               <div class="col-md-12 text-center padding-top-10">
+                       <figure class="figure">
+                           <img src="images/JUnit.png" class="image-shadow figure-img img-fluid z-depth-1"
+                             alt="happy" style="width: 450px">
+
+                       </figure>
+               </div>
+
+
+                </div>
+                  <hr/>
+              </div>
+
+          </div>
+
+          <!-- -------Middleware Lab -------------- -->
+          <div class="container">
+
+              <div class="row collapse" id="MiddlewareLab">
+                <div>
+                <div class="col-md-12 text-center padding-top-10">
+                    <h4 class="section-title"> Middleware for IoT Lab</h4>
+
+                </div>
+                <div class="row">
+                  <p>During this lab we discovered three mainly used tools in IoT. Firstly, we used MQTT protocol to compute a LED. To do that, we set up a moquitto broker and publishing subscribing topic with an arduino.</p>
+                  <p>Then, we discovered the restfull OM2M standard. It's a platform that enables us to set up a ressource archetecture that contains sensors but also their data/states. Thus, we can interact with this ressources via the API Rest queries. </p>
+                  <p> Finally, linked these two tools thanks to Node-Red. Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.</p>
+
+                  <p> You can find next my full report:</p>
+
+
+
+                </div>
+
+                <a href="images/intergicielReport.pdf" class="btn-Green small scrool" target="_blank">Middleware Report</a>
+              </div>
+                  <hr/>
+
+              </div>
+
+          </div>
+
+            <!-- -------Cloud -------------- -->
+          <div class="row collapse" id="Cloud">
+            <div>
+
+              <div class="col-md-12 text-center padding-top-10">
+                  <h4 class="section-title"> Adaptability Lab: Cloud and Autonomic Computing </h4>
+
+              </div>
+
+                <p> The general purpose of this lab was to enhance a knowledge of concepts and technologies for virtualization techniques. These techniques are used in IT environments that support the provisioning (i.e. development, deployment, management) of novel software systems (with their potential constraints such as QoS and security). These environments are typically dynamic and distributed. </p>
+                <p> The objectives were:</p>
+
+                <ul class="benefits">
+                  <li><i class="fas fa-check"></i> Discover virtualization archetectures and technologies</li>
+                  <li><i class="fas fa-check"></i> Recognize the fundamental differences between the two main types of virtualisation hosts, i.e. virtual machines (VM) and containers (CT). </li>
+                  <li> <i class="fas fa-check"></i>   Operate VirtualBox VMs provisioning, in NAT mode, and make appropriate configurations so that VMs can access and be accessed through the Internet.</li>
+                  <li> <i class="fas fa-check"></i> Operate Docker containers provisioning, and make appropriate configurations so that containers can access and be accessed through the Internet.</li>
+                  <li> <i class="fas fa-check"></i> Operate proper VMs provisioning with OpenStack and manage the networking connectivity. </ol></li>
+                  <li> <i class="fas fa-check"></i> Implement a simple orchestration tool in order to provision a Web 2-tier application using node.js services </ol></li>
+                </ul>
+                <p> You can find next my report:</p>
+                <a href="images/cloudReport.pdf" class="btn-Green small scrool" target="_blank">Cloud and Autonomic Computing report</a>
+                <hr/>
+            </div>
+          </div>
+      </div>
+
+
+
+
+
+
+      <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+     <div class="row">
+       <div class="col-md-12 text-center padding-top-10">
+
+         <i class="fas fa-tasks fa-3x"></i>
+         <h3> Developped skills and knowledge </h3>
+
+
+       </div>
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsCAC" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Show Cloud and Autonomic Computing</span>
+
+               </button>
+
+               </div>
+
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsMiddleIoT" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Show Middleware for IoT</span>
+
+               </button>
+
+               </div>
+
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsSOA" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Show Service Oriented Architecture</span>
+
+               </button>
+
+             </div>
+             <div class="col-md-12 text-center padding-top-10">
+             <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsSoftware" aria-expanded="false" aria-controls="collapseOne">
+
+
+                 <span>Show Software Engineering</span>
+
+             </button>
+             </div>
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsSoftware">
+
+                 <h5> Software Engineering Skills</h5>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Define the different phases in software development</b></div>
+                       </div>
+                       <p> In the SOA project we had to develop our knowledge of the phases in software
+                       development. In fact, we firstly defined the specifications, then defined the software design archetecture,
+                     and finally though about the implementation before ending by the tests. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Know the different project management methods</b></div>
+                       </div>
+                       <p> We studied the different project management methods during classes. We practiced Agile and Scrum project management
+                         methods in the SOA project</p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                             <b>Apply one of these methods a project</b></div>
+                       </div>
+                       <p>We praticed agile method during the SOA project and Innovative project</p>
+                   </li>
+
+
+
+                  </ul>
+
+             </div>
+
+
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsSOA">
+
+                 <h5> Service Oriented Archetecture Skills</h5>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Know how to define a Service Oriented Architecture</b></div>
+                       </div>
+                       <p>I learnt during the autonomous theoretical lessons what is a Service Oriented Architecture. I applied this lessons in the project. I understood the main use advantages. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy an SOA with web services</b></div>
+                       </div>
+                       <p> In the project and the labs we deployed several type of web services. I liked the use of springboot to facilitate the creation of these services.</p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy and configure an SOA using SOAP</b></div>
+                       </div>
+                       <p>In the work lessons we used SOAP to configure and create some SOAs. I understood how it works but I could be able to reuse it if needed. </p>
+                   </li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy and configure an SOA using REST</b></div>
+                       </div>
+                       <p> In the project, we deployed web services using REST APIs (interacting with OM2M, and launching the services). </p>
+                   </li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Integrate a process manager in an SOA</b></div>
+                       </div>
+                       <p> In the work lessons, we used BPEL integrating a process manager in a SOA. I understood how it works but I could be able to reuse it if needed. </p>
+                   </li>
+
+
+                  </ul>
+
+             </div>
+
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsMiddleIoT">
+                 <hr/>
+                 <h5> Middleware Skills</h5>
+                 <li>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Situate the main standards for the IoT</b></div>
+                     </div>
+                     <p> This lab is based on a Middleware MOOC wich I took. This MOOC helped me to understand main standards.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy an IoT standard architecture/sensor network</b></div>
+                     </div>
+                     <p> In the lab lessons and during the SOA project we deployed an OM2M archetecture (and its REST API) in order to create sensors networks. I am now able to understand how it works. </p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy and configure and IoT architecture using OM2M</b></div>
+                     </div>
+                     <p> The second lab lesson and the Middleware MOOC was about interacting with the OM2M architecture. I understood how it works. </p>
+                 </li>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Interact with the different REST services</b> </div>
+                     </div>
+                     <p> In the lab, and in the project we implemented an application that allows to interact with OM2M platform and web service thanks to REST APIs. </p>
+                 </li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Integrate a new technology into the deployed architecture <b></div>
+                     </div>
+                     <p> During the last practical work, we were able to make the two standards MQTT and oneM2M interact with node-red. We just simulated actuators and sensor in the OM2M platform.
+                 </li>
+
+
+                  </ul>
+
+             </div>
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsCAC">
+                 <hr/>
+                 <h5> Cloud Computing Skills</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Understand the concept of cloud computing</b></div>
+                     </div>
+                     <p>With several theoretical parts in the lab and in the courses on the concept of cloud computing, I am now able to understand the basics concept such as Virtual Machine and Containers.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Use a IaaS-type cloud service </b></div>
+                     </div>
+                     <p> We used Infrastructure as a service (IaaS) in different lab lessons (OpenStack platform allows IaaS by creating VM instances), I am now able to use cloud for my future projects.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Deploy and adapt a cloud-based platform for IoT </b></div>
+                     </div>
+                     <p> We set up  different archetectures in the lab lessons. Thus, we deployed VMs in diffrent platforms such as Virtual Box and OpenStack. In OpenStack we created VMs in order to deploy a Service Oriented Architecture. </p>
+                 </li>
+
+
+                  </ul>
+
+             </div>
+
+      </div>
+
+          <!--end progress-list -->
+
+
+          <!-- Conclusion ------------------------- -->
+          <div class="col-md-12 mx-auto text-center padding-top-10">
+            <div class="col-md-12 text-center padding-top-10">
+
+              <i class="fas fa-star fa-3x"></i>
+              <h3> Conclusion </h3>
+
+            </div>
+            <p> Theses courses, labs, and projects of Middleware and services enabled me to get a
+              background in the IT part of the IoT. In fact, we went deeper in some concepts that I went through theorically in
+            the previous years at INSA (virtualisation, networks). Moreover, this courses enabled me to get background on DeVops concepts/tools (Jenkins, Springboot, API rest )
+
+           and project organization (Jira Scrum methods) which will be very usefull the in a compagny context.
+           It was very interesting to apply this devOps tool in an IoT context and discover how we can link all the different protocols
+         , types of connected objects and interfacing tools.</p>
+          </div>
+          <hr/>
+
+
+
+
+
+
+    </section>
+
+
+    <!-- Innovation and Humanity -->
+
+    <section class="section-white" id="innoHuman">
+
+      <div class="container">
+          <!--begin row-->
+          <div class="row">
+            <div class="col-md-12 text-center padding-bottom-10">
+
+                <h2 class="section-title">Innovation and Humanity</h2>
+
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#psycho" aria-expanded="false" aria-controls="collapseOne">
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverPsycho.jpg" alt="">
+                      <div class="overlay">
+                           <h2>Psychology</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+
+
+                </button>
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#triz" aria-expanded="false" aria-controls="collapseOne">
+
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverTRIZ.jpg" alt="">
+                      <div class="overlay">
+                               <h2>TRIZ</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+
+
+                </button>
+
+
+            </div>
+          </div>
+
+
+      </div>
+
+
+
+
+      <div class="container">
+        <!--------- TRIZ------------------------>
+        <div class="row collapse" id="triz">
+          <div>
+          <div class="col-md-12 text-center padding-top-10">
+              <h4 class="section-title"> Theory of Inventive Problem Solving</h4>
+
+          </div>
+          <div class="row">
+            <p>During this Theory of Iventive Problem Solving courses we discovered how to solve an inventive problem in a project. In pairs we had to solve this problem on a specific object. </p>
+            <p>Our chosen object was italian coffee maker. We used all the tools of the course to study this object in order to innovate it. </p>
+
+            <p> You can find next my study report of this object.</p>
+
+
+
+          </div>
+          <a href="images/TRIZ.pdf" class="btn-Green small scrool" target="_blank">Italian Coffee Maker Study</a>
+        </div>
+
+          <hr/>
+
+        </div>
+
+
+          <!-- ------- Psycho -------------- -->
+          <div class="row collapse" id="psycho">
+            <div>
+            <div class="col-md-12 text-center padding-top-10">
+                <h4 class="section-title"> Psychology</h4>
+
+            </div>
+            <div class="row">
+              <p>During this social psychologie courses we discovered diffrent psychology subjects. Moreover, it was an intresting course that enabled us to discover how to applicate these subjects in a work environnement.</p>
+              <p>Each group project has to present a subject and how they can applicate it in their ISS project. My subject was "Conflict management and decision making"</p>
+
+              <p> You can find next my full presentation ont this subject:</p>
+
+
+
+            </div>
+
+            <a href="images/Psycho.pdf" class="btn-Green small scrool" target="_blank">Conflict management and decision making presentation</a>
+          </div>
+
+          <hr/>
+
+
+
+
+          </div>
+
+
+
+      </div>
+
+
+
+      <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+     <div class="row">
+       <div class="col-md-12 text-center padding-top-10">
+
+         <i class="fas fa-tasks fa-3x"></i>
+         <h3> Developped skills and knowledge </h3>
+
+
+       </div>
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsManage" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Manage an innovative project</span>
+
+               </button>
+
+               </div>
+
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsTeamwork" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Learn teamwork</span>
+
+               </button>
+
+               </div>
+
+
+               <div class="col-md-4 text-center padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsConvincing" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Be convincing: present and defend an idea</span>
+
+               </button>
+
+              </div>
+
+              <div class="col-md-12 text-center padding-top-20">
+              <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsPortfolio" aria-expanded="false" aria-controls="collapseOne">
+
+
+                  <span>Self evaluation with portfolio</span>
+
+              </button>
+
+             </div>
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsPortfolio">
+
+                 <hr/>
+                 <h5> Self evaluation with portfolio</h5>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Reflect upon my training process and methods</b></div>
+                       </div>
+                       <p>I have learned to take a step back from the various teachings received this year to identify the skills and qualities developed. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to put forward my training experiences, whether they be explicit or implicit </b></div>
+                       </div>
+                       <p> Via this website, I can express all the skills I have been able to develop by exposing the projects I have been able to realize.</p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be self-sufficient and responsible towards my education</b></div>
+                       </div>
+                       <p>For most of this year, we have had to carry out projects and
+                         reports in almost total autonomy. This autonomy has
+                         been further supported by the 'all-remote' imposed on us
+                         during this period. I think I have developed,
+                          in addition to technical and human skills, a great autonomy and responsibility for the work I do.</p>
+                   </li>
+
+
+
+                  </ul>
+
+             </div>
+
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsConvincing">
+                 <hr/>
+                 <h5>Be convincing: present and defend an idea</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Express and exchange hypotheses</b></div>
+                     </div>
+
+                 </li>
+                 <p> During the semester, I had to develop several project in group and so express and exchange my ideas. Moreover this psychology course was a great opportunity to express and exchanges my ideas.</p>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 97%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Suggest a strategy to solve the problem identified</b></div>
+                     </div>
+
+                 </li>
+                   <p> I had to think to a strategy to solve issues for all projects we had to
+                      realize. In the innovative project I had to do suggestions to solve
+                      specific issues. Moreover the psychology course was a great opportunity to
+                      learn how to solve ethical issues in the project.</p>
+
+                      <li>
+                          <p></p>
+                          <div class="progress" style="height: 20px;">
+                              <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 95%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Choose, design and / or justify a protocol or an experimental prototype</b></div>
+                          </div>
+                          <p> During all project we had to justify our choices.
+                             Moreover the psychology course was a great opportunity
+                             to justify our choices regarding an ethical view. </p>
+                      </li>
+
+                      <li>
+                          <p></p>
+                          <div class="progress" style="height: 20px;">
+                              <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 93%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Suggest a model</b></div>
+                          </div>
+                          <p> During our phases of project planning and project management, we learned to suggest a model for the application we had to develop.</p>
+                      </li>
+                  </ul>
+
+             </div>
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsTeamwork">
+                 <hr/>
+                 <h5> Learn teamwork</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Multi-disciplinary students work as a team</b></div>
+                     </div>
+                     <p> In all project I worked with students that have different backgrounds. It was very intresting insofar as each member can share its knowledge to others and consequently learn a lot </p>
+                 </li>
+
+
+                  </ul>
+
+             </div>
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsManage">
+                 <hr/>
+                 <h5> Manage an innovative project</h5>
+                 <li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Solve a problem in a creative way</b></div>
+                       </div>
+                       <p> We needed to be creative to solve issues in many of projects. Moreover the Theory of Iventive Problem Solving courses enabled us to learn how to be us creative methods in the studies done. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Develop the first stage of innovation </b></div>
+                       </div>
+                       <p> During the Theory of Iventive Problem Solving lectures, we dicovered methods to develop the first stage of innovation. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Understand innovation's production, validation, distribution, acceptability, and aftermath</b></div>
+                       </div>
+                       <p> In the humanities courses we had to think about the importance of the production, validation, distribution, acceptability, and aftermath in our projects. As example, in the psychology lessons we had to think about the ethical part of our project and its aftermath </p>
+                   </li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>structure and lead an innovative project</b></div>
+                       </div>
+                       <p> In the humanities lessons we learned how to lead a project. We applied this lessons on our projects. </p>
+                   </li>
+
+
+                  </ul>
+
+             </div>
+
+      </div>
+
+          <!--end progress-list -->
+
+
+          <!-- Conclusion ------------------------- -->
+          <div class="col-md-12 mx-auto text-center padding-top-10">
+            <div class="col-md-12 text-center padding-top-10">
+
+              <i class="fas fa-star fa-3x"></i>
+              <h3> Conclusion </h3>
+
+            </div>
+            <p> Theses courses, labs, and projects of Hummanities enabled me to get a
+              background of a lot of  concerning the organization of a project, conflict management and team management theories. I am now confortable
+            to deal with a lot of kind situation during a project. That will be very usefull in a company context when I will work with
+          other people in a team. </p>
+          </div>
+           <hr/>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Data engineering section  -->
+    <section class="section-grey" id="DataEngineering">
+
+      <div class="container">
+          <!--begin row-->
+          <div class="row">
+            <div class="col-md-12 text-center padding-bottom-10">
+
+                <h2 class="section-title">Data engineering</h2>
+
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#semantic" aria-expanded="false" aria-controls="collapseOne">
+
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverSem.png" alt="">
+                      <div class="overlay">
+                              <h2>Semantic Data</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+
+                </button>
+                <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#bigdata" aria-expanded="false" aria-controls="collapseOne">
+                  <div class="hovereffect">
+                      <img class="img-responsive" width="350" height="200" src="images/hoverBigD.jpg" alt="">
+                      <div class="overlay">
+                              <h2>Big Data</h2>
+                         <a class="info"><h3>Discover</h3></a>
+                      </div>
+                  </div>
+
+                </button>
+
+
+            </div>
+          </div>
+
+
+      </div>
+
+
+
+
+      <div class="container">
+
+
+        <!--------- big data------------------------>
+        <div class="row collapse" id="bigdata">
+          <div class="col-md-12 text-center padding-top-10">
+              <h4 class="section-title"> Big Data processing</h4>
+          </div>
+          <div>
+
+          <div class="row">
+            <p>This courses enabled us to discover the basis of data processing with the R language. The goals were:</p>
+
+
+
+          </div>
+          <ul class="benefits">
+            <li><i class="fas fa-check"></i>Firstly, manupulating vectors and diversified datasets.</li>
+            <li><i class="fas fa-check"></i>Secondly, extracting information from theses data and represent them to do analysis (using plyr library and ggplot)</li>
+            <li> <i class="fas fa-check"></i>Finally, apply all this concepts on an autonomous project. </li>
+          </ul>
+          <h5> Big Data Project </h5>
+          <p>We had to find a dataset on the web and apply all the learnt concepts ont this dataset.
+             The main goal was to give meaning and sens to the data by analyse it. Our data set was about
+           the Olympic Games from 1980 to nowadays. The chosen problematic was : how Olympic Games are diversified ?</p>
+           <p> All the analysis can be found at the next report: <p>
+          <a href="images/bigDataReport.pdf" class="btn-Green small scrool" target="_blank">Olympic Games Data Processing</a>
+          </div>
+          <hr/>
+        </div>
+
+
+
+
+          <!-- ------- semantic data  -------------- -->
+
+          <div class="row collapse" id="semantic">
+            <div class="col-md-12 text-center padding-top-10">
+                <h4 class="section-title"> Semantic Data</h4>
+
+            </div>
+            <div>
+            <div class="row">
+
+              <p>The purpose of this lab is to apply the concepts of semantic data seen in the theoretical courses. The main goals were :</p>
+
+
+              <ul class="benefits">
+                <li><i class="fas fa-check"></i> Create an ontology with the software Protégé </li>
+                <li><i class="fas fa-check"></i> Create a Java application that enrich this ontology, and exploit it</li>
+                <li> <i class="fas fa-check"></i>Applicate the concepts of semantic data in an IoT context</li>
+              </ul>
+              <p>The semantic web enabled us to structure data that are on the web to better exploit them. The semantic web provides a set of functions that offers a common structure to all data on the web. It enables an automatic treatment. </p>
+
+
+            </div>
+            <div class="col-md-12 padding-top-10">
+                <p> You can find next my full report:</p>
+
+                  <a href="images/semantic.pdf" class="btn-Green small scrool" target="_blank">Semantic Data</a>
+            </div>
+          </div>
+          <hr/>
+
+
+
+
+
+          </div>
+        </div>
+
+
+
+      <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+     <div class="row">
+       <div class="col-md-12 text-center padding-top-10">
+         <i class="fas fa-tasks fa-3x"></i>
+         <h3> Developped skills and knowledge </h3>
+
+
+       </div>
+
+               <div class="col-md-4 mx-auto padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsSemantic" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Show Processing Semantic Data</span>
+
+               </button>
+
+               </div>
+
+
+               <div class="col-md-4 mx-auto padding-top-10">
+               <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsBigData" aria-expanded="false" aria-controls="collapseOne">
+
+
+                   <span>Show Data Processing and Analysis: Big Data</span>
+
+               </button>
+
+              </div>
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsBigData">
+
+                 <hr/>
+                 <h5> Data Processing and Analysis: Big Data</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 89%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Know how to explore and represent data sets</b></div>
+                     </div>
+                     <p>We used several datasets in the practical work (CSV files). In fact, we learnt how to explore and
+                       organise them in order to do some plots (ggplots) and consequently represent them with some charts and bar plots.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Master R</b></div>
+                     </div>
+                     <p> During our practical work and our project we worked with the R language. We
+                       consequently learnt the subtlety and the power of this language for the data processing and interpretation.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 50%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Master complexity associated to statistical data processing and know the techniques to be used to minimise them.</b></div>
+                     </div>
+                     <p> We saw in the lecture the basis of data processing and its  statistical complexity,
+                       I know how to compare the complexity between different problems. However, I did not practise enough to get a level of control. </p>
+                 </li>
+
+
+                  </ul>
+
+             </div>
+
+
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsSemantic">
+                 <hr/>
+                 <h5>Processing Semantic Data</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 93%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Design and understand a model for an application</b></div>
+                     </div>
+                     <p> With the theoretical lessons and their application in pratical labs, I understood the basis of the semantic data processing.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Know how to infer new knowlegde from a knowledge base</b></div>
+                     </div>
+                     <p> In the first lab, we infred new knowledge by the reasoner "HermiT" which can deduce new knowledge from the relations between objects created in the ontology.</p>
+                 </li>
+
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 97%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to enrich data with semantic meta-data</b></div>
+                     </div>
+                     <p> During lab lessons on semantic web, we created a Java code which was able to automatically enrich data with semantic meta-data thanks to the ontology we had created.</p>
+                 </li>
+                  </ul>
+
+             </div>
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsTeamwork">
+                 <hr/>
+                 <h5> Learn teamwork</h5>
+                 <li>
+                     <p></p>
+                     <div class="progress" style="height: 20px;">
+                         <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Multi-disciplinary students work as a team</b></div>
+                     </div>
+                     <p> In all project I worked with students that have different backgrounds. It was very intresting insofar as each member can share its knowledge to others and consequently learn a lot </p>
+                 </li>
+
+
+                  </ul>
+
+             </div>
+
+
+             <div class="col-md-8 mx-auto text-center padding-top-10">
+               <ul class="progress-list collapse" id="skillsManage">
+                 <hr/>
+                 <h5> Manage an innovative project</h5>
+                 <li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Solve a problem in a creative way</b></div>
+                       </div>
+                       <p> We needed to be creative to solve issues in many of projects. Moreover the Theory of Iventive Problem Solving courses enabled us to learn how to be us creative methods in the studies done. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Develop the first stage of innovation </b></div>
+                       </div>
+                       <p> During the Theory of Iventive Problem Solving lectures, we dicovered methods to develop the first stage of innovation. </p>
+                   </li>
+
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Understand innovation's production, validation, distribution, acceptability, and aftermath</b></div>
+                       </div>
+                       <p> In the humanities courses we had to think about the importance of the production, validation, distribution, acceptability, and aftermath in our projects. As example, in the psychology lessons we had to think about the ethical part of our project and its aftermath </p>
+                   </li>
+                   <li>
+                       <p></p>
+                       <div class="progress" style="height: 20px;">
+                           <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>structure and lead an innovative project</b></div>
+                       </div>
+                       <p> In the humanities lessons we learned how to lead a project. We applied this lessons on our projects. </p>
+                   </li>
+
+
+                  </ul>
+
+             </div>
+
+      </div>
+
+          <!--end progress-list -->
+
+
+          <!-- Conclusion ------------------------- -->
+          <div class="col-md-12 mx-auto text-center padding-top-10">
+            <div class="col-md-12 text-center padding-top-10">
+
+              <i class="fas fa-star fa-3x"></i>
+              <h3> Conclusion </h3>
+
+            </div>
+            <p> Theses courses, labs, and projects of data engineering enabled me to get a
+              background in how we do analysis of data. I've already had a background in semantic web, but
+            this year we've gone deeper with a Java-Based implementation of semantic data. Finally,these courses showed
+          how important is processing and representig data. </p>
+          </div>
+
+
+    </section>
+
+
+
+
+
+<!-------------------------- Smart Devices <section> ----------------------->
+
+
+
+<section class="section-white" id="SmartDevices">
+
+  <div class="container">
+      <!--begin row-->
+      <div class="row">
+        <div class="col-md-12 text-center padding-bottom-10">
+
+            <h2 class="section-title">Smart Devices</h2>
+            <p> The smart devices courses are a very linked courses. The goal of this courses is to
+              follow the entire creation process of a sensor and its deployment. From the manufacturing to the usage into an IoT environment.
+               Thus, the next parts will explain how we created our gas sensor (Sensor Manufacturing at AIME),
+               how we integrated it in a emmbeded system (Analog Electronic Labs), and how it can be used in an IoT context (M&OSH: Microcontrollers & Open Source Hardware)</p>
+
+              <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#SensorManu" aria-expanded="false" aria-controls="collapseOne">
+
+
+                <div class="hovereffect">
+
+                    <img class="img-responsive" width="350" height="200" src="images/hoverSensor.png" alt="">
+                    <div class="overlay">
+                        <h2>Sensor Manufacturing at AIME</h2>
+                       <a class="info">  <h3>Discover</h3></a>
+
+                    </div>
+
+                </div>
+
+
+              </button>
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#AnalogElec" aria-expanded="false" aria-controls="collapseOne">
+              <div class="hovereffect">
+
+
+                <div class="hovereffect">
+                    <img class="img-responsive" width="350" height="200" src="images/hoverAnalog.jpg" alt="">
+                    <div class="overlay">
+                            <h2>Analog Electronic Labs</h2>
+                       <a class="info"><h3>Discover</h3></a>
+                    </div>
+                </div>
+
+            </button>
+
+            <div>
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#MOSH" aria-expanded="false" aria-controls="collapseOne">
+
+
+              <div class="hovereffect">
+                  <img class="img-responsive" width="350" height="200" src="images/hoverMosh.jpg" alt="">
+                  <div class="overlay">
+                          <h2>M&OSH</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+
+
+            </button>
+          </div>
+
+        </div>
+      </div>
+
+
+  </div>
+
+
+
+  <div class="container" >
+
+
+
+    <!--------- M&OSH------------------------>
+    <div class="row collapse" id="MOSH">
+      <div class="col-md-12 text-center padding-top-10">
+          <h3 class="section-title"> Microcontrollers & Open Source Hardware</h3>
+
+      </div>
+      <div class="row">
+        <p>After we manufactured the sensor, did the integration in an electronic circuit, the purpose
+           of this Microcontrollers & Open Source Hardware is to realise a connected gas sensor.
+           The system had to be able to send data over the web with Lora technology and had to be plug with a
+           special shield on an Arduino. The main part of this project were:</p>
+           <ul class="benefits">
+             <li><i class="fas fa-check"></i> Firstly, Create a custom Arduino Shield for the whole system </li>
+             <li><i class="fas fa-check"></i> Secondly, Send data to internet through a Lora radio </li>
+             <li> <i class="fas fa-check"></i>Finaly, Exploit received data with Node-Red</li>
+           </ul>
+      </div>
+      <div class="row">
+        <h4>Create a shield with Kicad</h4>
+      </div>
+      <div>
+        <p>In order to create a custom Arduino Shield that allows to accommodate all the elements, we used the
+          software Kicad. We integrated the electronic circuit and the chip that
+          enables us to communicate by LoRa (RN2483 chip).</p>
+          <div class="row">
+            <h5>Built Schematics:</h5>
+          </div>
+        <p>The first step in Kicad was to create all the schmatics needed. The next figure show our shematic :</p>
+          <div class="col-md-12 text-center padding-top-10">
+                  <figure class="figure">
+                      <img src="images/kicad1.png" class="image-shadow figure-img img-fluid z-depth-1"
+                        alt="happy" style="width: 800px">
+                      <figcaption class="figure-caption">shield's schmatic</figcaption>
+                  </figure>
+          </div>
+          <p>The shematic is composed of four parts: Amplifier stage (see the Analog Electronic Labs), LoRa chip (RN2483), Arduino chip, and the gas sensor connection.</p>
+          <div class="row">
+            <h5>Final PCB:</h5>
+          </div>
+
+        <p>Once the schematics done and connected all the pins of each element the final PCB can be built as follows: </p>
+        <div class="col-md-12 text-center padding-top-10">
+                <figure class="figure">
+                    <img src="images/kicad2.png" class="image-shadow figure-img img-fluid z-depth-1"
+                      alt="happy" style="width: 600px">
+                    <figcaption class="figure-caption">Kicad PCB 2D view </figcaption>
+                </figure>
+        </div>
+
+        <div class="col-md-12 text-center padding-top-10">
+                <figure class="figure">
+                    <img src="images/kicad3.png" class="image-shadow figure-img img-fluid z-depth-1"
+                      alt="happy" style="width: 600px">
+                    <figcaption class="figure-caption">Kicad PCB 3D view </figcaption>
+                </figure>
+        </div>
+        <div class="row">
+          <h4>Read the sensor data and send them through a LoRa radio</h4>
+        </div>
+        <p>Once our sensor manufactured and we got the its PCB for Arduino, we can now monitor its data.
+          In fact, we used an Arduino with a LoRa radio module (the RN2483) the build this connected gas sensor.
+        Then, we communicated with the a gateway situated at the roof of the GEI building.
+      To do that, we used The Things Network (TTN) library and implementd an Arduino code (C++) to send the GEI's gateway.
+    Consequently, we were abe to send the sensor data values and monitor them from the TNN server of the gateway. The next figure
+  shows some data monitored on the TTN server: </p>
+
+      <div class="col-md-12 text-center padding-top-10">
+              <figure class="figure">
+                  <img src="images/ttn.png" class="image-shadow figure-img img-fluid z-depth-1"
+                    alt="happy" style="width: 600px">
+                  <figcaption class="figure-caption">Gas sensor monitoring on TTN</figcaption>
+              </figure>
+      </div>
+      <div class="row">
+        <h4>Monitor the sensor data with Node-Red</h4>
+      </div>
+      <p>In order to get an user friendly interface, we built an Human-Machine interface by using Node-Red.
+        We created a dashboard that allows us to monitor the gas sensor's measurements, and display them in a
+      intuitive way for the user (graph/figure that shows the evolutions).</p>
+      <p> The next figure shows the Node-Red flow created: </p>
+      <div class="col-md-12 text-center padding-top-10">
+              <figure class="figure">
+                  <img src="images/node-red.png" class="image-shadow figure-img img-fluid z-depth-1"
+                    alt="happy" style="width: 600px">
+                  <figcaption class="figure-caption">Node-Red flow</figcaption>
+              </figure>
+      </div>
+      <p> It is composed of the payload reception (ttn uplink: from the TTN node-red library),
+        a function allowing us to decode the payload received from TNN, and the two intuitive
+        displays in the dashboard.</p>
+      <p> The next figure shows the final dashboard: </p>
+      <div class="col-md-12 text-center padding-top-10">
+              <figure class="figure">
+                  <img src="images/node-red2.png" class="image-shadow figure-img img-fluid z-depth-1"
+                    alt="happy" style="width: 600px">
+                  <figcaption class="figure-caption">Node-Red DashBoard HMI</figcaption>
+              </figure>
+      </div>
+      <hr/>
+      </div>
+
+
+    </div>
+
+
+
+
+
+
+
+          <!--------- AEL------------------------>
+          <div class="row collapse" id="AnalogElec">
+            <div class="col-md-12 text-center padding-top-10">
+                <h4 class="section-title"> Analog Electronic Labs</h4>
+
+            </div>
+            <div class="row">
+              <p>After we manufactured the sensor, we had to integrate it in an electronic circuit. The aim of this circuit is to amplify the
+              out signal from the gas sensor in order to be used by an arduino. In fact, the arduino's ADC can not treat the
+            the out signal while this signal is not amplified: the entry impedance of the Arduino is much lower than the impedance of the sensor.</p>
+            <div class="row">
+              <h5>LTSpice: How we simulated the circuit</h5>
+            </div>
+              <p>We used the software LTSpice to simulate this analog circuit. It allows us to build schematics we want and then run some simulations.</p>
+
+              <p>The next figure shows the final circuit that we used. Firstly, we simulated the sensor by a low pass filter.
+                Then, we placed it at the entry of the amplifier that can amplify it and obtain the wanted signal. Finally, we had to filter
+                the noise, to do that, we used several filters.</p>
+                <div class="col-md-12 text-center padding-top-10">
+                        <figure class="figure">
+                            <img src="images/elec1.png" class="image-shadow figure-img img-fluid z-depth-1"
+                              alt="happy" style="width: 800px">
+                            <figcaption class="figure-caption">Analog cirtcuit</figcaption>
+                        </figure>
+                </div>
+
+                <div class="row">
+                  <h5>Kicad: Integration on the PCB</h5>
+                </div>
+
+              <p>  When we were sure that this circuit was the perfect one for our sensor we integrated it
+              in our final PCB on kicad. The following figure shows the Kicad shematics:</p>
+              <div class="col-md-12 text-center padding-top-10">
+                      <figure class="figure">
+                          <img src="images/elec2.png" class="image-shadow figure-img img-fluid z-depth-1"
+                            alt="happy" style="width: 800px">
+                          <figcaption class="figure-caption">Kicad schematics: analog circuit integration on PCB </figcaption>
+                      </figure>
+              </div>
+
+              <p>The following figure shows the 3D view of this circuit on the PCB: </p>
+              <div class="col-md-12 text-center padding-top-10">
+                      <figure class="figure">
+                          <img src="images/elec3.png" class="image-shadow figure-img img-fluid z-depth-1"
+                            alt="happy" style="width: 800px">
+                          <figcaption class="figure-caption">3D view: analog circuit integration on PCB </figcaption>
+                      </figure>
+              </div>
+              <hr/>
+            </div>
+
+
+
+
+          </div>
+
+
+
+        <!-- ------- SMA -------------- -->
+      <div class="row collapse" id="SensorManu">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title"> Sensor Manufacturing at AIME</h4>
+
+        </div>
+        <div class="row">
+          <p>The goals
+            of this training unit were :</p>
+
+
+          <ul class="benefits">
+            <li><i class="fas fa-check"></i> Firstly, manufacture a gas sensor at AIME. </li>
+            <li><i class="fas fa-check"></i> Secondly, eximine the sensor in order to find its characterizations. </li>
+            <li> <i class="fas fa-check"></i>Finally, build a datasheet related to these
+               characterizations to allow a user to understand how to use our sensor. </li>
+          </ul>
+          </div>
+          <h5>Sensor manufacturing</h5>
+        <div class="col-md-12 padding-top-10">
+            <p>The Gas Sensor we created is based on tungsten trioxide nanoparticles. Small combs silicon substrates fill with tungsten trioxide
+              nanoparticles (WO3) deposit react to the ambient concentration of gas.</p>
+            <p>To do that there were three steps:</p>
+
+            <ul class="fa-ul">
+              <li><span class="fa-li"><i class="fas fa-arrow-right"></i></span>Synthesis of nanoparticles of tungsten</li>
+                <div class="col-md-12 padding-top-10">
+                  <p>
+                    We followed a protocol to synthesize tungsten trioxide molecules. It was a very intresting protocol
+                     insofar as it allowed us to understand how import the security was in such as chimical experience. Moreover,
+                      we understood how import is the ecological impact, and how to reduce it by
+                      limiting the waste. Finaly, it was important to be very meticulous in such as experiences. </p>
+                </div>
+              <li><span class="fa-li"><i class="fas fa-arrow-right"></i></span>Photolithography: Conception of the combs</li>
+              <div class="col-md-12 padding-top-10">
+                <p>
+                  The purpose of this part is to create the sensor chip which will contain the
+                   nanoparticles that we synthesized before. The next figure shows the chip archetecture:
+
+                 </p>
+                 <div class="col-md-12 text-center padding-top-10">
+                         <figure class="figure">
+                             <img src="images/chipArch.png" class="image-shadow figure-img img-fluid z-depth-1"
+                               alt="happy" style="width: 800px">
+                             <figcaption class="figure-caption">Chip archetecture</figcaption>
+                         </figure>
+                 </div>
+
+              </div>
+              <li><span class="fa-li"><i class="fas fa-arrow-right"></i></span>DiElectrophoresis: integration of tungsten in the combs</li>
+              <div class="col-md-12 padding-top-10">
+                <p>
+                  For the integration of the nanoparticles into the sensor we used DiElectrophoresis method.
+                  This part will allow the resistors to be well electrically connected. In this method, we connected the pins of
+                  the comb, then deposit a nanoparticle solution on the sensor. We passed an electric current for one minute.
+                  Our particles will, thanks to the dielectrophoretic force,
+                  integrate on the comb. Once the DiElectrophoresis done we
+                saw the tungsten particles disposed in the microscope: </p>
+                <div class="col-md-12 text-center padding-top-10">
+                        <figure class="figure">
+                            <img src="images/microscope.jpg" class="image-shadow figure-img img-fluid z-depth-1"
+                              alt="happy" style="width: 200px">
+                            <figcaption class="figure-caption">Chip visualization</figcaption>
+                        </figure>
+                </div>
+
+              </div>
+            </ul>
+
+        </div>
+
+        <h5> Sensor's characterizations</h5>
+        <div class="col-md-12 padding-top-10">
+            <p>Once the chip completed, we characterized our sensor. The next figure shows the chosen protocol:</p>
+
+            <div class="col-md-12 text-center padding-top-10">
+                    <figure class="figure">
+                        <img src="images/charac1.png" class="image-shadow figure-img img-fluid z-depth-1"
+                          alt="happy" style="width: 600px">
+                        <figcaption class="figure-caption">Measurement Protocol</figcaption>
+                    </figure>
+            </div>
+            <p> As you can see, we measured the variation of the resistance when different gases are alternatively present (Dry air, Ethanol, ammonium).
+              Theses gases react with the nanoparticle which change the variation of resistance.</p>
+              <p> This resistance variation can be seen in the next figure: </p>
+              <div class="col-md-12 text-center padding-top-10">
+                      <figure class="figure">
+                          <img src="images/charac2.png" class="image-shadow figure-img img-fluid z-depth-1"
+                            alt="happy" style="width: 600px">
+                          <figcaption class="figure-caption">Resistance variation related to gas reaction</figcaption>
+                      </figure>
+              </div>
+        </div>
+
+          <h5>Datasheet</h5>
+        <div class="col-md-12 padding-top-10">
+            <p>Finally, we built a datasheet related to all above characterizations. To do that, we used all the usefull information to a futur user and explained them. You can find it next.</p>
+
+              <a href="images/Datasheet.pdf" class="btn-Green small scrool" target="_blank">Datasheet</a>
+        </div>
+
+        <hr/>
+
+
+
+
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+
+
+
+  </div>
+
+
+
+
+  <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+ <div class="row">
+   <div class="col-md-12 text-center padding-top-10">
+     <i class="fas fa-tasks fa-3x"></i>
+     <h3> Developped skills and knowledge </h3>
+
+
+   </div>
+
+           <div class="col-md-4 mx-auto padding-top-10">
+           <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsSensor" aria-expanded="false" aria-controls="collapseOne">
+
+
+               <span>Introduction to Sensors</span>
+
+           </button>
+
+           </div>
+
+
+
+
+
+           <div class="col-md-4 mx-auto padding-top-10">
+           <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off" data-toggle="collapse" data-target="#skillsMosh" aria-expanded="false" aria-controls="collapseOne">
+
+
+               <span>Microcontrollers and Open Source Hardware</span>
+
+           </button>
+
+         </div>
+
+
+
+         <div class="col-md-8 mx-auto text-center padding-top-10">
+           <ul class="progress-list collapse" id="skillsMosh">
+
+             <hr/>
+             <h5> Microcontrollers and Open Source Hardware</h5>
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to design data acquisition system (sensor, conditioner, microcontroller) with respect to the application</b></div>
+                 </div>
+                 <p>We built a complete smart device of a gas sensor. I am able to understand how this complete system work and how the data
+                   acquisition can be done.</p>
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 73%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to design a shield to accommodate the gas sensor </b></div>
+                 </div>
+                 <p> In order to get a system that enables a user to get the "plug and play concept": the users
+                 only have to plug the created shield for Arduino and the sensor to use the sensor. So we made our own shield
+                 and I understand how to use softwares as Kicad to do that.</p>
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be abe to design the sofware to use the gas sensor and its HMI</b></div>
+                 </div>
+                 <p>I'm very familiar with the use of Arduino (C++) and NodeRed to design the software to use the a sensor
+                   by doing the data acquisition and monitor this data on a created dashboard.</p>
+             </li>
+
+
+
+             <li>
+              <p></p>
+              <div class="progress" style="height: 20px;">
+                  <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Understand microcontroller archictecture and how to use them</b></div>
+              </div>
+              <p>I am used to microcontroller thanks to my studies. But this labs helped me to
+                 understand all the electronical part of an ADC and then how to integrate a sensor on it. </p>
+          </li>
+
+          <li>
+              <p></p>
+              <div class="progress" style="height: 20px;">
+                  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 60%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to design the electronic circuit of a sensor’s signal conditioner (design + simulation) </b></div>
+              </div>
+              <p> I understand now why we need an electronic circuit for a sensor (the resistance of our sensor was too high for it and the
+                ADC cannot treat the sensor's signal).
+            However, I undestood the goal but wouldn't be able to design a circuit by myself with a similar goal with other constraints </p>
+          </li>
+
+          <li>
+              <p></p>
+              <div class="progress" style="height: 20px;">
+                  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to combine all of the above mentioned components into a smart device</b></div>
+              </div>
+              <p>All the components, both hardware and software, that we were able to create around our gas sensor
+                have enabled it to become a smart device that can be integrated into a complete IoT environment.
+                I've gone through all theses steps to make this smart device. </p>
+          </li>
+              </ul>
+
+         </div>
+
+
+
+
+         <div class="col-md-8 mx-auto text-center padding-top-10">
+           <ul class="progress-list collapse" id="skillsSensor">
+             <hr/>
+             <h5> Introduction to Sensors</h5>
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 95%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Understand basic notions of sensors, data acquisition: physics, electronics and metrology point of view</b></div>
+                 </div>
+                 <p> By having the opportunity to follow a sensor throughout its life cycle (with the exception of its end of life)
+                   from the manufacturing to the its use in IoT. </p>
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to manufacture a nano-particles sensor using micro-electronics tools: chemical synthesis, assembly, testing</b></div>
+                 </div>
+                 <p>Thanks to the creation of our sensor in the AIME laboratory, we were able to create our own gas sensor using nanoparticles.
+                   We followed the whole process of creation, up to the exploitation.</p>
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 85%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>Be able to design the datasheet of the sensor manufactured</b></div>
+                 </div>
+                 <p> We realized by group a Datasheet of the sensor we did at the AIME. I was used to read Datasheet and now I am able to write one.</p>
+             </li>
+
+
+              </ul>
+
+         </div>
+
+
+  </div>
+
+      <!--end progress-list -->
+
+
+      <!-- Conclusion ------------------------- -->
+      <div class="col-md-12 mx-auto text-center padding-top-10">
+        <div class="col-md-12 text-center padding-top-10">
+
+          <i class="fas fa-star fa-3x"></i>
+          <h3> Conclusion </h3>
+
+        </div>
+        <p> Theses courses, labs, and projects were very intresting for me. In fact, such a pluridisciplinary concept was
+          important for me since I am an IT student. Moreover, the most interesting part was to realize the project from A to Z.
+          Finally, discovering all these concepts was really an opportunity to get important skills in the IoT domain. </p>
+      </div>
+
+
+
+
+
+
+
+
+
+</section>
+<!-- end smart device section -->
+
+<!-- Start communication section  -->
+<section class="section-grey" id="ProtocolCommunication">
+
+  <div class="container">
+      <!--begin row-->
+      <div class="row">
+        <div class="col-md-12 text-center padding-bottom-10">
+
+            <h2 class="section-title">Protocols and Communication</h2>
+
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#PFS" aria-expanded="false" aria-controls="collapseOne">
+
+              <div class="hovereffect">
+                  <img class="img-responsive" width="300" height="150" src="images/hoverPFS.png" alt="">
+                  <div class="overlay">
+                          <h2>Protocols for Sensor
+                            Network</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+
+            </button>
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#EN" aria-expanded="false" aria-controls="collapseOne">
+              <div class="hovereffect">
+                  <img class="img-responsive" width="300" height="150" src="images/hoverEN.png" alt="">
+                  <div class="overlay">
+                          <h2>Emerging Networks</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+            </button>
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#fiveg" aria-expanded="false" aria-controls="collapseOne">
+              <div class="hovereffect">
+                  <img class="img-responsive" width="300" height="150" src="images/hoverfiveG.png" alt="">
+                  <div class="overlay">
+                          <h2>From 3G to 5G</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+            </button>
+
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#ECO" aria-expanded="false" aria-controls="collapseOne">
+              <div class="hovereffect">
+                  <img class="img-responsive" width="300" height="150" src="images/hoverECO.jpg" alt="">
+                  <div class="overlay">
+                          <h2>Energy for connected objects</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+            </button>
+
+            <button class="btn btn-link  active collapsed" type="button" data-toggle="collapse" data-target="#Secu" aria-expanded="false" aria-controls="collapseOne">
+              <div class="hovereffect">
+                  <img class="img-responsive" width="300" height="150" src="images/HoverSecu.jpg" alt="">
+                  <div class="overlay">
+                          <h2>Security</h2>
+                     <a class="info"><h3>Discover</h3></a>
+                  </div>
+              </div>
+
+            </button>
+
+
+        </div>
+      </div>
+
+
+  </div>
+
+
+
+
+  <div class="container">
+      <!-- ------- Security  -------------- -->
+      <div class="row collapse" id="Secu">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title"> Security For connected objects</h4>
+
+        </div>
+        <div class="row">
+          <p>The purpose of this courses was to discuss about the main concepts of networks and applications attacks and
+            defenses (error and fault detection) regarding wireless networks especially for IoT. It reviewed the main types of attacks
+          and thei classification and how we can implement defense to counter them.</p>
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+      <!--------- Energy for connected------------------------>
+      <div class="row collapse" id="ECO">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title"> Energy For connected objects</h4>
+
+        </div>
+        <div class="row">
+          <p>During this Energy for connected objects courses we discovered the energy part of IoT.
+            In fact, the purpose of this courses is: </p>
+            <ul class="benefits">
+                <li><i class="fas fa-check"></i> Understand how to stock electrical energy by using
+                  Electrochemical and Electrostatic energy storage  and apply
+                it to connected objetcs.</li>
+                <li><i class="fas fa-check"></i> Discover energy-harvesting and energy-scavenging concepts to produce energy.
+                   Specificaly, the use Solar, Thermal and Vibration to produce energy. </li>
+            </ul>
+
+
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+      <!--------- 3G to 5G------------------------>
+      <div class="row collapse" id="fiveg">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title"> From 3G to 5G</h4>
+        </div>
+        <div class="row">
+          <p>This course enaled us to discover and understand the generations of mobile networks, from
+            3G to 5G.  Several presentation were done by group of three student about several subject on 5G. Among all subjects,
+             I worked on 5G and smartphone addiction.
+             </p>
+
+          <p> You can find next the presentation:</p>
+
+
+
+        </div>
+
+        <a href="images/mobileAddiction.pdf" class="btn-Green small scrool" target="_blank">5G and mobile addiction</a>
+
+
+
+
+      </div>
+
+      <!--------- Emerging Networks------------------------>
+      <div class="row collapse" id="EN">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title">Emerging Networks</h4>
+
+        </div>
+        <div class="row">
+          <p>This courses were an introduction to software defined network. The main goal was to understand
+          the new emerging networks that are very usefull in an IoT context. Software defined networks enable us
+          to manage the network softwarely. We had two labs that aim to understand OpenFlow an SDN network
+           protocole which allows to create SDN archetectures. In the last lab we discover how to built a SDN controller
+           in python.</p>
+
+
+        </div>
+
+
+
+
+      </div>
+
+
+      <!--------- Protocols for Wireless Sensor Network------------------------>
+      <div class="row collapse" id="PFS">
+        <div class="col-md-12 text-center padding-top-10">
+            <h4 class="section-title">Protocols for Wireless Sensor Network</h4>
+
+        </div>
+        <div class="row">
+          <p>During this Protocols for Wireless Sensor Network courses
+            we discovered protocols and standards used in Wireless Sensor Network.
+            Nowadays, wireless communications are at the center of IoT.  Many protocols exist and are designed for different purposes. Some have a long range and a
+            low data rate and other are designed for short range but have a higher data rate.
+            Thus, the purpose was to compare them in order to know which protocol we can use for each system/use case (in terms of cost, range, energy, security). </p>
+            <div>
+            <div class="row">
+                <h5> LoRa Protocol </h5>
+
+            </div>
+
+            <p>I was in charge of doing a state of the art on the protocol LoRa with two of my classmates.
+            </p>
+            <p>LoRa (Long Range) is a low-power wide-area network (LPWAN) protocol that enables
+               long-range transmissions (more than 10km in rural areas) with low power consumption. </p>
+
+          <p> You can find next my study report and slide.</p>
+
+
+          <a href="images/LoraReport.pdf" class="btn-Green small scrool" target="_blank">Download LoRa report</a>
+          <a href="images/LoraSlide.pdf" class="btn-Green small scrool" target="_blank">Download LoRa Slide</a>
+
+
+          <br>
+            <br>
+          <div class="row">
+            <h5> MAC Layers for WSN </h5>
+
+          </div>
+
+          <p>In order to understand how these protocols work at all levels,
+          it is important to understand the MAC layer.
+          As part of my learning, I realized a report on MAC Layers designed for IoT.
+          The objective was to make a state of the art and a comparison of the different
+          Mac layers for Wireless Sensor Network. With the emergence of wireless sensor network,
+          new protocols have been implemented. It is important to know them and to understand how MAC
+          layer has a primordial role to play in systems’ communication.
+        </p>
+        <p>MAC Layer is the second layer in the seven-layer OSI model for network protocols.
+          The OSI (Open Systems Interconnection) is a conceptual model which characterizes
+           and standardizes the functions of communication systems. The next figure shows the different layers of OSI </p>
+
+            <p> You can find next my wsn report and slide:</p>
+                <a href="images/WSN.pdf" class="btn-Green small scrool" target="_blank">Download MAC layers for WSN report</a>
+    <a href="images/WSNSlide.pdf" class="btn-Green small scrool" target="_blank">Download MAC layers for WSN Slide</a>
+    <br>
+      <br>
+
+    <div class="row">
+      <h5> Software Defined Radio: Demodulation of signals using GNURadio</h5>
+      <p>
+        This labs aimed to introduce the concept of sotware defined radio. The main goals were:
+      </p>
+
+    </div>
+
+    <ul class="benefits">
+      <li><i class="fas fa-check"></i>Firstly, a theoretical part: demonstration of how the demodulation mechanism works </li>
+      <li><i class="fas fa-check"></i>Secondly, a simulation part: use of GNU radio to demulate an already saved radio samples</li>
+      <li> <i class="fas fa-check"></i>Thirdly, a practical part : use of USRP to listen to radio in real time and it visualization in different domain ( frequency and tomporal) </li>
+      <li> <i class="fas fa-check"></i>Finally, discove a new type of modulation: the signal side-band  modulation (VOLMET). </li>
+    </ul>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+  </div>
+
+
+
+
+
+
+
+  <!-- -------------------------------- Mobilized skills------------------------------------- -->
+
+
+ <div class="row">
+   <div class="col-md-12 text-center padding-top-10">
+     <i class="fas fa-tasks fa-3x"></i>
+     <h3> Developped skills and knowledge </h3>
+
+
+   </div>
+          <div class="container">
+           <div class="col-md-4 mx-auto padding-top-10">
+           <button type="button" class="btn btn-outline-secondary collapsed" data-bs-toggle="button" autocomplete="off"   data-toggle="collapse" data-target="#skillsProtocols" aria-expanded="false" aria-controls="collapseOne">
+
+
+               <span>Show Protocols and Communication</span>
+
+           </button>
+
+           </div>
+
+
+
+
+
+
+         <div class="col-md-8 mx-auto text-center padding-top-10">
+           <ul class="progress-list collapse" id="skillsProtocols">
+
+             <hr/>
+             <h5> Protocols and Communication</h5>
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Understand and master the new mobile networks technologies</b></div>
+                 </div>
+                 <p>The 4G to 5G allowed us to understand how different generation of mobile networks work and evolve.
+                    But I think it is an introduction to these technologies and I think I don't master them.</p>
+             </li>
+
+             <li>
+
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Be able to analyse and evaluate protocoles dedicated to Wireless Sensor Networks / IoT</b></div>
+                 </div>
+                 <p>Through my presentation and my classmates presentation on WSN protocols we discussed about each protocol
+                 and debated on their advantages/disavantages in severals case they are designed for. </p>
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Understand and master the fundamentals of emerging network paradigms applied to IoT</b></div>
+                 </div>
+                 <p> Emerging Networks courses enabled us to discover
+                   new type of networks that can be designed for IoT. The most important presented
+                   concept in theses courses was SDN (softeware define networks) that
+                   enables dynamic, programmatically efficient network configuration
+                   in order to improve network performance and monitoring</p>
+
+
+
+             </li>
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Understand and master the optimisation of IoT communication protocols at MAC level</b></div>
+                 </div>
+                 <p> Through my presentation and my classmates presentation on WSN MAC-lever protocols, we discussed about each protocol
+                 and debated on their advantages/disavantages in severals case they are designed for. I learnt in depth how each MAC protocol
+               work and their optimization for each use case. </p>
+
+
+
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Understand and master the security mechanismes of IoT communication protocols</b></div>
+                 </div>
+                 <p> The courses were very complete about security in IoT. I understood the discussed and reviewed concepts and principals
+                   of the attacks and defense. However, we did not praticed and consequently I would not necessarily
+                 be able to set up a security defense. I understood the principals and how important security can be in a
+               system. If I will have to implement them in tu future, I will learn in details these concepts before doing the implementation</p>
+
+
+
+             </li>
+
+             <li>
+                 <p></p>
+                 <div class="progress" style="height: 20px;">
+                     <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 75%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                       <b>Mastering the architecture of an energy management system, simple storage, energy recovery,
+                         know how to size the storage element according to the specifications </b></div>
+                 </div>
+                 <p>Through the Energy for Connected Objects course allowed us to understood how to store
+                   and size energy with different technologies that were a lot interesting. It allowed us to understand
+                 how energy is important in IoT concept.</p>
+
+
+
+             </li>
+
+
+              </ul>
+
+         </div>
+       </div>
+
+
+  </div>
+
+      <!--end progress-list -->
+
+
+      <!-- Conclusion ------------------------- -->
+      <div class="col-md-12 mx-auto text-center padding-top-10">
+        <div class="col-md-12 text-center padding-top-10">
+
+          <i class="fas fa-star fa-3x"></i>
+          <h3> Conclusion </h3>
+
+        </div>
+        <p> These courses were very usefull and important in an Internet of Things context. In fact, this
+        training unit was one of the units where I learnt a lot of importante paradigms where I had not
+        a first background. As a matter of fact, we saw a complete concepts in networks from  low level protocols (MAC, physical layers
+        of communication protocols,5G), emerging networks (SDN) to energy and security in IoT. We engaged our
+        critical and analytical thinking to respond to the main issues that can be faced in the future (which
+        protocol/network/archetecture for which use case ? How to handle energy ? What about security ? ). I think
+        it is important for an engineer to do that.
+          </p>
+      </div>
+
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--begin faq section -->
+    <section class="section-white" id="faq">
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+
+                <!--begin col-md-12-->
+                <div class="col-md-12 text-center padding-bottom-10">
+
+                    <h2 class="section-title">General Portfolio's Conclusion</h2>
+
+                    <p class="section-subtitle">My profile at the end of the ISS training</p>
+
+                </div>
+                <!--end col-md-12 -->
+
+            </div>
+            <!--end row -->
+
+            <!--begin row -->
+            <div class="row">
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <div class="faq-box">
+
+                        <h5>What I retained from ISS and my education at INSA ?</h5>
+
+                        <p>During this semester I acquired many technical skills which enabled me to complete my IT formation.
+                         After this 3 years of study at INSA Toulouse I have developed an IT engineer profile, but I am now
+                       able to  work on a complete system. In fact, this ISS allowed me to acquire some new skills: on the one
+                     hand, IT skills that I did not have before, and on the other hand other skills in various domain as
+                     electronics, telecommunication, physics, and hummanities.
+                     </p>
+
+                    </div>
+
+
+                </div>
+                <!--end col-md-6 -->
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <div class="faq-box">
+
+                        <h5>What did building this portfolio brought to me ?</h5>
+
+                        <p>Creating this portfolio was, firstly, an opportunity to strenghten my web development skills.</p>
+                        <p> Secondly, I improved my writing skills in English, skills that are very important for an IT engineer insofar
+                        as there are a lot of documents to write in English in the future. </p>
+                        <p> Finally, it was really important to write and analyse about what I learnt since it made me strenghten
+                        my learnings. It made me realize how much I have learnt during this semester in ISS.</p>
+
+                    </div>
+
+                </div>
+
+                <!--end col-md-6 -->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+
+
+
+    </section>
+    <!--end faq section -->
+
+    <!--begin section-bg-1 -->
+    <section class="section-bg-1">
+
+        <div class="section-bg-red-overlay"></div>
+
+        <!--begin container-->
+        <div class="container">
+
+            <!--begin row-->
+            <div class="row">
+
+                <!--begin col md 7 -->
+                <div class="col-md-7 mx-auto margin-bottom-20 text-center">
+
+                    <h3 class="white-text">Fun facts about Innovative Smart Systems Portfolio</h3>
+
+                </div>
+                <!--end col md 7-->
+
+            </div>
+            <!--end row-->
+
+            <!--begin row-->
+            <div class="row">
+
+              <!--begin fun-facts-box -->
+              <div class="col-md-2 offset-md-2 fun-facts-box text-center" >
+
+                  <i class="far fa-heart"></i>
+
+                  <p class="fun-facts-title"><span class="facts-numbers">Done</span><br>with heart</p>
+
+              </div>
+              <!--end fun-facts-box -->
+                <!--begin fun-facts-box -->
+                <div class="col-md-2 fun-facts-box text-center">
+
+                    <i class="far fa-school"></i>
+
+                    <p class="fun-facts-title"><span class="facts-numbers">400+</span><br>hours of work</p>
+
+                </div>
+                <!--end fun-facts-box -->
+
+
+
+                <!--begin fun-facts-box -->
+                <div class="col-md-2 fun-facts-box text-center">
+
+                    <i class="fa fa-graduation-cap"></i>
+
+                    <p class="fun-facts-title"><span class="facts-numbers">23+</span><br>Diversified trainings</p>
+
+                </div>
+                <!--end fun-facts-box -->
+
+                <!--begin fun-facts-box -->
+                <div class="col-md-2 fun-facts-box text-center">
+
+                    <i class="fas fa-laptop-code"></i>
+
+                    <p class="fun-facts-title"><span class="facts-numbers">6500+</span><br>Line Of html/css/js Codes</p>
+
+                </div>
+                <!--end fun-facts-box -->
+
+            </div>
+            <!--end row-->
+
+        </div>
+        <!--end container-->
+
+    </section>
+    <!--end section-bg-1 -->
+
+    <!--begin section-white -->
+    <section class="section-white no-padding" id="contact">
+
+        <!--begin container-->
+        <div class="container-fluid px-0">
+
+            <!--begin row-->
+            <div class="row no-gutters align-items-center">
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <img src="images/contact.jpg" class="bottom-margins-images width-100" alt="Happy">
+
+                </div>
+                <!--end col-sm-6-->
+
+                <!--begin col-md-6-->
+                <div class="col-md-6">
+
+                    <!--begin small-column-inside-->
+                    <div class="small-col-inside">
+
+                        <h3>Get In Touch</h3>
+
+                        <p>Please contact me using the form bellow.</p>
+
+                        <!--begin success message -->
+                        <p class="contact_success_box" style="display:none;">We received your message and you'll hear from us soon. Thank You!</p>
+                        <!--end success message -->
+
+                        <!--begin contact form -->
+                        <form id="contact-form" class="contact" action="php/contact.php" method="post">
+
+                            <input class="contact-input white-input" required="" name="contact_names" placeholder="Full Name*" type="text">
+
+                            <input class="contact-input white-input" required="" name="contact_email" placeholder="Email Adress*" type="email">
+
+                            <input class="contact-input white-input" required="" name="contact_phone" placeholder="Phone Number*" type="text">
+
+                            <textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" placeholder="Your Message..."></textarea>
+
+                            <input value="Get In Touch" id="submit-button" class="contact-submit" type="submit">
+
+                        </form>
+                        <!--end contact form -->
+
+
+                    </div>
+                    <!--end small-column-inside-->
+
+                </div>
+                <!--end col-md-6-->
+
+            </div>
+            <!--end row-->
+
+        </div>
+        <!--end container-->
+
+    </section>
+    <!--end section-white -->
+
+    <!--begin footer -->
+    <div class="footer">
+
+        <!--begin container -->
+        <div class="container">
+
+            <!--begin row -->
+            <div class="row">
+
+
+                <!--begin col-md-12 -->
+                <div class="col-md-12 text-center">
+
+                    <p>Copyright © 2020 <span class="template-name">Abderrazzak Mahraye</span></p>
+
+                </div>
+                <!--end col-md-12 -->
+
+            </div>
+            <!--end row -->
+
+        </div>
+        <!--end container -->
+
+    </div>
+    <!--end footer -->
+
+
+<script src="js/jquery-3.5.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.scrollTo-min.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/jquery.nav.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
